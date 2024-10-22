@@ -1,1 +1,1 @@
-# voter-website
+# Landing page for my voter-website
